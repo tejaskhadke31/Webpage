@@ -97,7 +97,6 @@
 @media(max-width: 958px){
   .home-image{
     margin: auto;
-    
     display: flex!important;
     align-items: center!important;
   }
